@@ -1,0 +1,5 @@
+name: zmk-component-rp2040-zero
+build:
+  settings:
+    board_root: .
+
